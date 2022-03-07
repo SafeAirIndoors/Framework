@@ -63,7 +63,9 @@ When raising a PR to include a new place that employs good air quality actions, 
 - [ ]  Opening doors and windows and turn on available fans to allow air circulation
 - [ ]  Monitoring CO2 levels to gauge air recycling in a room
 - [ ]  Utilizing [Corsi-Rosenthal boxes](https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box) or similar filtration systems to help filter aerosols
-    - Resources: [DIY box fan air filters – Corsi-Rosenthal box - Clean Air Crew](https://cleanaircrew.org/box-fan-filters/)
+    - Resources: 
+      - [DIY box fan air filters – Corsi-Rosenthal box - Clean Air Crew](https://cleanaircrew.org/box-fan-filters/)
+      - [Origin of the #CorsiRosenthalBox](https://twitter.com/CorsIAQ/status/1500748897034985474)
 - [ ]  Using MERV 14 / ISO ePM1 70-80% or higher filters in HVAC or similar air filtration devices
 - [ ]  Wearing of high-grade masks (N95, KN95, FFP2 or similar) when appropriate
 - [ ]  Monitoring and improving air humidity to help slow the spread of the virus (40-60 % RH)
