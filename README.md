@@ -45,9 +45,9 @@ For that, we require access to better indoor air quality, and by leveraging the 
 The best way to contribute is through GitHub channels in the following way:
 
 - Create a new Discussion to have information you find relevant included or changed in this Readme or in the upcoming site, all is subject to approval by administrators.
-- You can add data for the SAM App by issuing a Pull Request to the datastore.csv file, the PR review is a quick look to attempt to verify validity of the data, more complex mechanisms may come later. Issue another PR to make adjustments to data too.
+- You can add data for the SAM App by issuing a Pull Request to the datastore.csv file, there is an easy form to do it [here](https://notionforms.io/forms/safe-air-map-data-form), the PR review is a quick look to attempt to verify validity of the data, more complex mechanisms may come later. Issue another PR to make adjustments to data too.
 - Issues are only to be used to raise issues in the SAIF Map and App (upcoming)
-- If you want to buy me a coffee to continue maintaining this project, please do so through here:
+- If you want to [buy me a coffee](https://ko-fi.com/saif) to continue maintaining this project, please do so through here:
 - Finally, share SAIF as much as possible and keep the checklist in mind.
 
 ## Framework tools
@@ -76,7 +76,9 @@ When raising a PR to include a new place that employs good air quality actions, 
 
 The purpose of this data set is to create a source of locations which can be businesses, work or public places, where any if not all of the Safe Air Checklist actions are implemented to provide safe air conditions to the people accessing them or doing business with them.
 
-With this we encourage owners or managers to maintain such practices and helps other people find them easily
+With this we encourage owners or managers to maintain such practices and helps other people find them easily.
+
+Please use this [form](https://notionforms.io/forms/safe-air-map-data-form) to add a new place or use a PR directly in GitHub.
 
 ### Safe Air Map (SAM) App
 
